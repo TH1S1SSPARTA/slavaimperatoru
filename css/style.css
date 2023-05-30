@@ -1,0 +1,91 @@
+.logo {
+	width: 200px;
+	height: 100px;
+}
+.container_header{
+	display:flex;
+	 ;justify-content:center
+}
+.nav_list{
+	display:flex;
+	list-style:none;
+	margin:auto 0;
+}
+.nav_list{
+	margin-right:100px;
+}
+.nav_item{
+	margin-right:50px;
+}
+.nav{
+	margin:auto 0;
+}
+.nav_link{
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-decoration:none;
+color: #000000;
+
+}
+.container_hero_block{
+display: flex;
+ justify-content:center;
+
+}
+.hero_block_btn{
+	width: 80px;
+height: 50px;
+background: #34547As
+}
+
+.container_block_img{
+	margin-right: 100px;
+}
+.container_hero_block{
+padding-bottom:100px
+padding-top:100px;
+ }
+ .video_container{
+ 	max-width: 560px;
+ 	margin:50px auto;
+ }
+ .video_container{
+ 	max-width: 560px;
+ 	margin: 50px auto	;
+ }
+ .gallery_list{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+
+ }
+
+ .gallery_item{
+ 	width:25% ;
+
+ }
+
+ .gallery_img{
+ 	width: 100%;
+ }
+
+ footer{
+ 	background:#ff0000  ;
+ }
+.footer_contaier{
+	display: flex;
+	align-items: center;
+	justify-content:space-between ;
+}
+
+.footer_list{
+	list-style: none;
+}
+.footrt_img{
+	
+}
